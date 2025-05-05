@@ -18,7 +18,7 @@ st.subheader("✅ Safe Ranges for Water Quality Parameters")
 st.markdown("""
 - **pH**: 6.0 – 8.5
 - **Hardness**: 130 – 240 mg/L
-- **Solids (TDS)**: 12000 – 30000 mg/L
+- **Solids (TDS)**: 19000 – 30000 mg/L
 - **Chloramines**: 5.5 – 9.5 mg/L
 - **Sulfate**: 285 – 366 mg/L
 - **Conductivity**: 350 – 550 µS/cm
