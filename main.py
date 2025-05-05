@@ -16,15 +16,15 @@ st.markdown("Using **Random Forest Classifier**")
 st.subheader("✅ Safe Ranges for Water Quality Parameters")
 
 st.markdown("""
-- **pH**: 6.5 – 8.5  
-- **Hardness**: 100 – 200 mg/L  
-- **Solids (TDS)**: 50 – 1000 mg/L  
-- **Chloramines**: 0 – 4 mg/L  
-- **Sulfate**: 50 – 250 mg/L  
-- **Conductivity**: 100 – 1000 µS/cm  
-- **Organic Carbon (TOC)**: 0 – 5 mg/L  
-- **Trihalomethanes (THMs)**: 0 – 80 µg/L  
-- **Turbidity**: 0 – 5 NTU
+- **pH**: 6.0 – 8.5
+- **Hardness**: 130 – 240 mg/L
+- **Solids (TDS)**: 12000 – 30000 mg/L
+- **Chloramines**: 5.5 – 9.5 mg/L
+- **Sulfate**: 285 – 366 mg/L
+- **Conductivity**: 350 – 550 µS/cm
+- **Organic Carbon (TOC)**: 12.0 – 15.5 mg/L
+- **Trihalomethanes (THMs)**: 48 – 75 µg/L
+- **Turbidity**: 3.5 – 4.7 NTU
 """)
 st.subheader("Fill in all the fields:")
 
